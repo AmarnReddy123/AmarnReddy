@@ -1,2 +1,2 @@
-# AmarnReddy
-Java Selenium 
+# Java Selenium
+Java Examples 
